@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#first{
+    color: red;
+}
+
+#head2{
+    color: green;
+    
+}
+#head{
+    color: rgb(26, 45, 139);
+}
+
+#header{
+    color: orange;
+    /* background-color: black; */
+}
+#root{
+    color: white;
+}
+
+
